@@ -1,4 +1,4 @@
-Steps to duplicate the results:
+Steps to duplicate the results as shown in demo.pdf file:
 1. download the prototpe3.py file.
 2. keep all icons in the same directory/folder.
 3. download both csv files named safe_1.csv and unsafe_1.csv.
